@@ -1,1 +1,2 @@
-This is a prototype web application that helps users on their live bet adventures. Users can follow up to hundreds of live games and follow the signals produced by the backend.
+- This is a prototype web application that helps users on their live bet adventures. Users can follow up to hundreds of live games and follow the signals produced by the backend.
+- I simplified the decision-making engine in this version for demonstration purposes. So the smart signals use only averages and exponential smoothing methods :) You can start by updating the `datafactory.py` to get smarter recommendations.
